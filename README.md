@@ -23,6 +23,7 @@ Visual Studio Code
 Beginning with 0 and 1, the Fibonacci sequence is a set of numbers where each one is equal to the sum of the two numbers before it. Calling the function to calculate the previous two Fibonacci numbers and adding them together is the recursive method for determining the Fibonacci number at a specific location.
 ### Output:
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/5855225c-4f39-49bf-baf9-8a38c85429db">
+
 ### Conclusion:
 We found the fibonacci series for n number using recursion in C++.
 
